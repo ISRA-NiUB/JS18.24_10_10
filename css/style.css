@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+
+}
+.wrapper{
+    margin: auto;
+    width: 900px;
+}
+
+.wrapper h1,
+.wrapper ul li{
+    max-width: 100%;
+}
+
+ul{
+    padding: 0;
+
+}
+
+ul li{
+    list-style: none;
+}
