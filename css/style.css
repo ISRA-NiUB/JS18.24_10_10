@@ -2,10 +2,15 @@ body{
     margin: 0;
 
 }
+
 .wrapper{
     margin: auto;
     width: 900px;
+    padding: 36px;
+    
 }
+
+
 
 .wrapper h1,
 .wrapper ul li{
